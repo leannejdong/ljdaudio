@@ -9,6 +9,9 @@
 
 The core of the plugin is the reverb algorithm that processes the incoming audio signal and applies the reverb effect. This algorithm can be based on various techniques such as convolution, physical modeling, or algorithmic processing
 
+![signalflow](/Users/leanne/Desktop/signal.png)
+
+
 3. Develop
 
 4  Test, Debug
